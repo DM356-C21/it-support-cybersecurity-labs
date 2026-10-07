@@ -3,8 +3,7 @@
 **Request type:** Account Update - Legal Name Change
 **Priority:** Low
 **Department:** Finance
-
-##Issue
+## Issue
 A user submitted a request to update their account after a legal name change.
 The request changes included:
 -Update the user's display name
